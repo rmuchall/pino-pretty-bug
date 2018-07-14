@@ -1,0 +1,16 @@
+{
+  "name": "pino-pretty-bug",
+  "description": "Minimal example of pretty-pino translateTime bug",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "ts-node src/main.ts"
+  },
+  "devDependencies": {
+    "typescript": "2.9.2",
+    "ts-node": "7.0.0"
+  },
+  "dependencies": {
+    "pino": "5.0.0-rc.5",
+    "pino-pretty": "1.0.1"
+  }
+}
